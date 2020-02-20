@@ -28,13 +28,17 @@ Dictionaries in python
 Printing to the screen
 
 
-# Further Ideas
+# Further Ideas from SBES colleagues
 
 1. Calculating the length of genes/proteins from sequence data
 
 2. Pattern matching in big data (e.g.  one data set is gene id and gene coordinates, and the second is gene id and description, and you create a third dataframe combining both).
 
 3. Designing plate layout for qPCR analysis (i.e. 96 well plate, each plate must contain x y z) but be randomised. Then once the plate is run, a script to deconvolute the results. 
+
+4. Epidemic model (e.g. coronavirus)
+
+
 
 # Code not intended to be a teaching example
 
