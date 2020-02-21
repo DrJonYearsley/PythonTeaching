@@ -40,7 +40,9 @@ Printing to the screen
 
 5. Motif detection on DNA. In a given DNA sequence, how often does a particular 2 bp, 5 bp, 10 bp motif occur? To add some complexity: A lot of motifs are also degenerated. For example, a transcription factor binding site can be CCWWWWWWGG, where W can be either A or T. It can be surprising that the motifs alone, because they are often relatively short, occur quite frequently on DNA just by chance. For example, the sequence TATA, an element of the promoter of many eukaryotic genes, occurs by chance every 256 bp if the four nucleotides occur at equal frequency. It thus has limited predictive value for where actual promoters are located.
 
+6. Population growth models and plotting the results
 
+7. Pattern formation using cellular automata? Relate it to morphogens etc. A good book that gives an example of the latter in Python https://www.apress.com/gp/book/9781484245224
 
 # Code not intended to be a teaching example
 
