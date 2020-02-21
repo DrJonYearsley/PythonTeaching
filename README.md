@@ -34,9 +34,11 @@ Printing to the screen
 
 2. Pattern matching in big data (e.g.  one data set is gene id and gene coordinates, and the second is gene id and description, and you create a third dataframe combining both).
 
-3. Designing plate layout for qPCR analysis (i.e. 96 well plate, each plate must contain x y z) but be randomised. Then once the plate is run, a script to deconvolute the results. 
+3. Designing plate layout for qPCR analysis (i.e. 96 well plate, each plate must contain x y z) but be randomised. Then once the plate is run, a script to deconvolute the results.
 
 4. Epidemic model (e.g. coronavirus)
+
+5. Motif detection on DNA. In a given DNA sequence, how often does a particular 2 bp, 5 bp, 10 bp motif occur? To add some complexity: A lot of motifs are also degenerated. For example, a transcription factor binding site can be CCWWWWWWGG, where W can be either A or T. It can be surprising that the motifs alone, because they are often relatively short, occur quite frequently on DNA just by chance. For example, the sequence TATA, an element of the promoter of many eukaryotic genes, occurs by chance every 256 bp if the four nucleotides occur at equal frequency. It thus has limited predictive value for where actual promoters are located.
 
 
 
