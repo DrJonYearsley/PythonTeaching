@@ -46,6 +46,14 @@ Printing to the screen
 
 8. Predator-prey models
 
+9. Get reverse complement of a DNA sequence
+
+10. Calculating the frequency of nucleotides/amino acids per sequence
+
+11. Swap out a specific nucleotide for another, convert to amino acids, see if it results in a different residue.
+
+12. Given a fragment of DNA, find the most likely open reading frame (using substrings)
+
 
 
 # Code not intended to be a teaching example
