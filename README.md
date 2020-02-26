@@ -36,13 +36,25 @@ Printing to the screen
 
 3. Designing plate layout for qPCR analysis (i.e. 96 well plate, each plate must contain x y z) but be randomised. Then once the plate is run, a script to deconvolute the results.
 
-4. Epidemic model (e.g. coronavirus)
+4. Epidemic model (e.g. coronavirus, measles pre and post vaccination)
 
 5. Motif detection on DNA. In a given DNA sequence, how often does a particular 2 bp, 5 bp, 10 bp motif occur? To add some complexity: A lot of motifs are also degenerated. For example, a transcription factor binding site can be CCWWWWWWGG, where W can be either A or T. It can be surprising that the motifs alone, because they are often relatively short, occur quite frequently on DNA just by chance. For example, the sequence TATA, an element of the promoter of many eukaryotic genes, occurs by chance every 256 bp if the four nucleotides occur at equal frequency. It thus has limited predictive value for where actual promoters are located.
 
 6. Population growth models and plotting the results
 
 7. Pattern formation using cellular automata? Relate it to morphogens etc. A good book that gives an example of the latter in Python https://www.apress.com/gp/book/9781484245224
+
+8. Predator-prey models
+
+9. Get reverse complement of a DNA sequence
+
+10. Calculating the frequency of nucleotides/amino acids per sequence
+
+11. Swap out a specific nucleotide for another, convert to amino acids, see if it results in a different residue.
+
+12. Given a fragment of DNA, find the most likely open reading frame (using substrings)
+
+
 
 # Code not intended to be a teaching example
 
