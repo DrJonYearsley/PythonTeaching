@@ -14,6 +14,20 @@ Printing to the screen, and formatted printing
 Displaying graphics using matplotlib
 
 
+
+
+## SIR_epidemic.ipynb
+Problem to simulate the Swine Flu epidemic in La Gloria, Mexico (March 2009) and visualise the results.
+
+### Skills:
+Reading python code
+Mathematical operations
+For loops
+Lists in python
+
+
+
+
 ## DNA_to_aa.ipynb
 This problem takes a DNA sequence and transcribes it into an amino acid sequence.
 Solutions are given in two version: using basic python and using python list comprehension
@@ -26,6 +40,8 @@ If statements
 String manipulation
 Dictionaries in python
 Printing to the screen
+
+
 
 
 # Further Ideas from SBES colleagues
